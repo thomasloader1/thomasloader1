@@ -1,6 +1,3 @@
-### Hi there 👋
-
-
 ```javascript
 const thomasloader1 = {
     pronouns: "He" | "Him",

@@ -1,6 +1,6 @@
 ```javascript
 const thomasloader1 = {
-    pronouns: "He" | "Him",
+    fullName: "Gomez Tomas Gonzalo",
     code: ["Javascript", "Typescript", "Java", "PHP"],
     askMeAbout: ["web dev", "tech", "game","80's music"],
     technologies: {

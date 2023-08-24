@@ -6,16 +6,13 @@ const thomasloader1 = {
     technologies: {
         frontEnd: {
             js: ["Vue.js", "React.js", "Angular"],
-            css: ["Bootstrap", "Sass", "MaterialUI"]
+            css: ["Bootstrap", "Sass", "MaterialUI", "Bulma", "Tailwind]
         },
         backEnd: {
-          java: ["Groovy"],
           php: ["Laravel"],
-          nodejs: ["Express.js"]
         },
-        databases: ["MySQL", "MongoDB", "Postgres"],
-        devOps: ["AWS", "Docker", "Nginx"],
-        misc: ["Firebase"]
+        databases: ["MySQL"],
+        devOps: ["AWS", "Docker", "Nginx", "Apache"],
     }
 };
 ```

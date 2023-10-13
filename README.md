@@ -6,7 +6,7 @@ const thomasloader1 = {
     technologies: {
         frontEnd: {
             js: ["Vue.js", "React.js", "Angular"],
-            css: ["Bootstrap", "Sass", "MaterialUI", "Bulma", "Tailwind]
+            css: ["Bootstrap", "Sass", "Bulma", "Tailwind"]
         },
         backEnd: {
           php: ["Laravel"],

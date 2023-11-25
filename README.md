@@ -12,7 +12,8 @@ const thomasloader1 = {
           php: ["Laravel"],
         },
         databases: ["MySQL"],
-        devOps: ["AWS", "Docker", "Nginx", "Apache"],
+        os: ["Linux","Windows"],
+        devOps: ["Docker", "Nginx", "Apache"]
     }
 };
 ```

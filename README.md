@@ -1,11 +1,10 @@
 ```javascript
 const thomasloader1 = {
     fullName: "Gomez Tomas Gonzalo",
-    code: ["Javascript", "Typescript", "Java", "PHP"],
-    askMeAbout: ["web dev", "tech", "game","80's music"],
-    technologies: {
+    code: ["JavaScript", "TypeScript", "PHP"],
+    stack: {
         frontEnd: {
-            js: ["Vue.js", "React.js", "Angular"],
+            js: ["Next.js", "React.js"],
             css: ["Bootstrap", "Sass", "Bulma", "Tailwind"]
         },
         backEnd: {
@@ -13,7 +12,7 @@ const thomasloader1 = {
         },
         databases: ["MySQL"],
         os: ["Linux","Windows"],
-        devOps: ["Docker", "Nginx", "Apache"]
+        devOps: ["Docker", "Apache"]
     }
 };
 ```

@@ -4,14 +4,14 @@ const thomasloader1 = {
     code: ["JavaScript", "TypeScript", "PHP"],
     stack: {
         frontEnd: {
-            js: ["Next.js", "React.js"],
+            js: ["Next.js", "React.js", "Astro"],
             css: ["Bootstrap", "Sass", "Bulma", "Tailwind"]
         },
         backEnd: {
           php: ["Laravel"],
         },
         databases: ["MySQL"],
-        os: ["Linux","Windows"],
+        os: ["Ubuntu","Windows"],
         devOps: ["Docker", "Apache"]
     }
 };

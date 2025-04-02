@@ -1,16 +1,18 @@
 ```javascript
 const thomasloader1 = {
     fullName: "Gomez Tomas Gonzalo",
-    code: ["JavaScript", "TypeScript", "PHP"],
-    stack: {
+    code: ["JavaScript", "TypeScript", "PHP", "C#","Python"],
+    knowledge: {
         frontEnd: {
-            js: ["Next.js", "React.js", "Astro"],
+            js: ["Next.js", "React.js", "Astro", "Angular"],
             css: ["Bootstrap", "Sass", "Bulma", "Tailwind"]
         },
         backEnd: {
           php: ["Laravel"],
+          "c#": [".NET Core 8"],
+          python: ["Flask"]
         },
-        databases: ["MySQL"],
+        databases: ["MySQL", "SQL-Server", "SQLite"],
         os: ["Ubuntu","Windows"],
         devOps: ["Docker", "Apache"]
     }

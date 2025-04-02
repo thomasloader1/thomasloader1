@@ -9,7 +9,7 @@ const thomasloader1 = {
         },
         backEnd: {
           php: ["Laravel"],
-          "c#": [".NET Core 8"],
+          cSharp: [".NET Core 8"],
           python: ["Flask"]
         },
         databases: ["MySQL", "SQL-Server", "SQLite"],
